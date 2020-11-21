@@ -42,7 +42,7 @@ def smallesteSubstr_maxDistictChar(str):
 if __name__ == "__main__": 
       
     
-    str = "AABBBCBB"
+    str = "abcda"
       
     l = smallesteSubstr_maxDistictChar(str); 
     print(l) 
